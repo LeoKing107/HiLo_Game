@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HiLoGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b22bb7314c5aef5e3820b1f7558027a18e187faa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16542a4b89f53e9c242f29539273ff7661402184")]
 [assembly: System.Reflection.AssemblyProductAttribute("HiLoGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HiLoGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
