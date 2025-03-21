@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.game-container {
+    margin-top: 50px;
+}
+
+input[type="text"], input[type="number"] {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#gameResult {
+    margin-top: 20px;
+    font-weight: bold;
+}
